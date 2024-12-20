@@ -1,1 +1,1 @@
-## Hello world in rust 😁
+## My first Hello world in rust! 😁
